@@ -5,5 +5,5 @@ This respository documents the treebanking activity for the ERASMUS students
 
 * Program/schedule for the treebanking activity (the guildelines are contained in the <a href="https://github.com/PerseusDL/treebank_data/tree/master/AGDT2/guidelines">PerseusDL repository</a>)
 * XML files before tokenization and sentence split (the comment elements within the files specify the edition of the texts)
-* XML files after tokenization and sentence split: these have been uploaded on the online Plerseids platform in order to be treebanked
+* XML files after tokenization and sentence split: these have been uploaded on the online <a href="http://sosol.perseids.org/sosol/">Plerseids platform</a> in order to be treebanked
 * Inter-coder agreement folder, which documents in detail the files compared
