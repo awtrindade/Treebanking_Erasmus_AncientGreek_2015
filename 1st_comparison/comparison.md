@@ -1,13 +1,9 @@
 <html>
   <head>
     <meta charset="UTF-8"/>
-    <title>Inter-coder agreement</title>
   </head>
   <body>
     <h1>Inter-coder Agreement</h1>
-    <br/>
-    <br/>
-    <br/>
     <br/>
     <br/>
     <div>
