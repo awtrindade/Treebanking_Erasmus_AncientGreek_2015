@@ -4,7 +4,7 @@
   </head>
   <body>
     <h1>Inter-coder Agreement</h1>
-    <p>This is the inter-annotator agreement for the first 98 words of the document. The document contains the sentences the annotators disagree on with their values and links to Arethusa, the online tool used to peform annotation. Note that after comparison, disagreement was discussed and annotators invited to change their annotation where necessary: for this reason a certain value for a word in the linked sentence is now likely to be different (i.e., the correct one).</p>
+    <p>This is the inter-annotator agreement for the first 98 words of Aesop's fables. The document contains the sentences the annotators disagree on with their values and links to Arethusa, the online tool used to peform annotation, so that disagreement can be discussed. Note that after comparison, annotators were invited to change their annotations where necessary: for this reason a certain value for a word is now likely to be the corrected one in the linked sentence.</p>
     <div>
       <div>
         <h2>1. Morphology</h2>
