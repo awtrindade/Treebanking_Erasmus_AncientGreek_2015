@@ -15,7 +15,7 @@ Supervisor: Giuseppe G. A. Celano
 16 March - 20 March
 * Revision of already treebanked sentences (Aesop) (4 hours)
 * Treebanking of Aesop (16 hours)
-* Calculating <a href="https://github.com/gcelano/Treebanking_Erasmus_March-June_2015/blob/master/inter-coder_agreement/2st_comparison/comparison.md" target="_blank">inter-coder agreement</a> and discussion (2 hours)
+* Calculating <a href="https://github.com/gcelano/Treebanking_Erasmus_March-June_2015/blob/master/inter-coder_agreement/2nd_comparison/comparison.md" target="_blank">inter-coder agreement</a> and discussion (2 hours)
 * Treebanking of Apollodor (18 hours)
 
 23 March - 27 March
