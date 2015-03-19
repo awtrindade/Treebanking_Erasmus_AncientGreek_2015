@@ -1,0 +1,273 @@
+<treebank xml:lang='grc' version='1.5' direction='ltr' format='smyth3'>
+  <date>Mon Mar 09 10:45:57 +0000 2015</date>
+  <comment>The present XML file has been created by Giuseppe G. A. Celano, 23 February 2015, at Leipzig University.
+The following text comes from Aesopi Fabulae by Aemilius Chambry, Les Belles Lettres, 1925, pars prior (= 1st volume).
+The scanned book is available here: http:&#x2F;&#x2F;digital.slub-dresden.de&#x2F;werkansicht&#x2F;dlf&#x2F;106495&#x2F;7&#x2F;0&#x2F;
+I have copied and pasted the text from this website ( http:&#x2F;&#x2F;mythfolklore.net&#x2F;aesopica&#x2F;chambry&#x2F;1.htm ), checked it against the original scanned volume, and
+converted it into the treebank format.
+The text has been automatically checked for Unicode codepoints, so that it only contains the correct letters
+from the Unicode Chart Greek Extended and Unicode Chart Greek and Coptic (for example, no mathematical Greek letters).
+I have automatically checked punctuation: all colons (U+003A) have been converted into middle dots (U+00B7) and all apostrophes (U+0027) into modifier letter apostrophes (U+02BC).
+The @subdoc contains reference to the number of fable according to Chambry&#x27;s aforementioned edition.</comment>
+  <annotator>
+    <short/>
+    <name/>
+    <address/>
+    <uri>http:&#x2F;&#x2F;github.com&#x2F;latin-language-toolkit&#x2F;arethusa</uri>
+  </annotator>
+  <annotator>
+    <short>Polina Yordanova</short>
+    <name>Polina Yordanova</name>
+    <address>polina.yordanova@yahoo.com</address>
+    <uri>http:&#x2F;&#x2F;data.perseus.org&#x2F;sosol&#x2F;users&#x2F;Polina%20Yordanova</uri>
+  </annotator>
+  <sentence id='11' document_id='' subdoc='2' span=''>
+    <word id='1' form='Τῶν' lemma='ὁ' postag='l-p---mg-' relation='ATR' ref='' sg='' head='3'/>
+    <word id='2' form='δὲ' lemma='δέ' postag='d--------' relation='COORD' ref='' sg='prt' head='0'/>
+    <word id='3' form='παρατυχόντων' lemma='παρατυγχάνω' postag='v-papamg-' relation='ATR' ref='' sg='sbs gnt dpd prp dvd' head='4'/>
+    <word id='4' form='τινὸς' lemma='τις' postag='p-s----g-' relation='SBJ' ref='' sg='sbs nmn dpd' head='5'/>
+    <word id='5' form='εἰπόντος' lemma='εἶπον' postag='v-sapamg-' relation='PRED_CO' ref='' sg='adj crc tmp sml_lct' head='2'/>
+    <word id='6' form='πρὸς' lemma='πρός' postag='r--------' relation='AuxP' ref='' sg='' head='5'/>
+    <word id='7' form='αὐτόν' lemma='αὐτός' postag='p-s---ma-' relation='OBJ' ref='' sg='sbs acc dpd aff' head='6'/>
+    <word id='8' form='·' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+  </sentence>
+  <sentence id='12' document_id='' subdoc='2' span=''>
+    <word id='1' form='&quot;' lemma='' postag='' relation='AuxG' ref='' sg='' head='0'/>
+    <word id='2' form='Ὦ' lemma='ὦ' postag='i--------' relation='AuxZ' ref='' sg='' head='3'/>
+    <word id='3' form='οὗτος' lemma='οὗτος' postag='p-s---mv-' relation='ExD' ref='' sg='sbs nmn ind exc' head='10'/>
+    <word id='4' form=',' lemma='' postag='' relation='AuxX' ref='' sg='' head='3'/>
+    <word id='5' form='καὶ' lemma='καί' postag='c--------' relation='AuxZ' ref='' sg='' head='10'/>
+    <word id='6' form='τί' lemma='τί' postag='d-------p' relation='ADV' ref='' sg='cau' head='10'/>
+    <word id='7' form='τοῦτον' lemma='οὗτος' postag='p-s---ma-' relation='OBJ' ref='' sg='sbs acc dpd aff' head='10'/>
+    <word id='8' form='τοιοῦτον' lemma='τοιοῦτος' postag='p-s---ma-' relation='PNOM' ref='' sg='adj' head='9'/>
+    <word id='9' form='ὄντα' lemma='εἰμί' postag='v-sppama-' relation='ATR' ref='' sg='adj atr' head='7'/>
+    <word id='10' form='πωλεῖς' lemma='πωλέω' postag='v2spia---' relation='PRED_CO' ref='' sg='ind qst' head='11'/>
+    <word id='11' form=',' lemma='' postag='' relation='COORD' ref='' sg='' head='0'/>
+    <word id='12' form='δέον' lemma='δεῖ' postag='v-sppann-' relation='PNOM' ref='' sg='adj prp' head='20'/>
+    <word id='13' form='τῶν' lemma='ὁ' postag='l-p---mg-' relation='ATR' ref='' sg='' head='16'/>
+    <word id='14' form='παρʼ' lemma='παρά' postag='r--------' relation='AuxP' ref='' sg='' head='16'/>
+    <word id='15' form='αὐτοῦ' lemma='αὐτός' postag='p-s---mg-' relation='ATR' ref='' sg='sbs gnt dpd abl src' head='14'/>
+    <word id='16' form='ὠφελειῶν' lemma='ὠφέλεια' postag='n-p---fg-' relation='OBJ' ref='' sg='gnt dpd prp dvd' head='17'/>
+    <word id='17' form='ἀπολαύειν' lemma='ἀπολαύω' postag='v--pna---' relation='SBJ' ref='' sg='dpd vrb as_nmn not_ind' head='20'/>
+    <word id='18' form=';' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+    <word id='19' form='&quot;' lemma='' postag='' relation='AuxG' ref='' sg='' head='0'/>
+    <word id='20' insertion_id='0012e' artificial='elliptic' relation='PRED_CO' lemma='εἰμί' postag='v3spia---' form='ἐστί' sg='ind stt' head='11'/>
+  </sentence>
+  <sentence id='13' document_id='' subdoc='2' span=''>
+    <word id='1' form='ἀπεκρίνατο' lemma='ἀποκρίνω' postag='v3saim---' relation='PRED' ref='' sg='ind stt' head='0'/>
+    <word id='2' form='ὅτι' lemma='ὅτι2' postag='c--------' relation='OBJ' ref='' sg='' head='1'/>
+    <word id='3' form='ἐγὼ' lemma='ἐγώ' postag='p1s---mn-' relation='SBJ' ref='' sg='sbs nmn dpd' head='8'/>
+    <word id='4' form='μὲν' lemma='μέν' postag='d--------' relation='AuxZ' ref='' sg='prt' head='3'/>
+    <word id='5' form='ταχείας' lemma='ταχύς' postag='a-s---fg-' relation='ATR' ref='' sg='prp' head='6'/>
+    <word id='6' form='ὠφελείας' lemma='ὠφέλεια' postag='n-s---fg-' relation='OBJ' ref='' sg='acc dpd aff' head='8'/>
+    <word id='7' form='τινὸς' lemma='τις' postag='p-s----g-' relation='ATR' ref='' sg='adj' head='6'/>
+    <word id='8' form='δέομαι' lemma='δέομαι' postag='v1spie---' relation='OBJ_CO' ref='' sg='dpn sbs_cls stt ind' head='11'/>
+    <word id='9' form=',' lemma='' postag='' relation='AuxX' ref='' sg='' head='11'/>
+    <word id='10' form='αὐτὸς' lemma='αὐτός' postag='p-s---mn-' relation='SBJ' ref='' sg='sbs nmn dpd' head='13'/>
+    <word id='11' form='δὲ' lemma='δέ' postag='d--------' relation='COORD' ref='' sg='prt' head='2'/>
+    <word id='12' form='βραδέως' lemma='βραδύς' postag='d--------' relation='ADV' ref='' sg='mnn' head='13'/>
+    <word id='13' form='εἴωθε' lemma='ἔθω' postag='v3sria---' relation='OBJ_CO' ref='' sg='dpn sbs_cls stt ind' head='11'/>
+    <word id='14' form='τὰ' lemma='ὁ' postag='l-p---na-' relation='ATR' ref='' sg='' head='15'/>
+    <word id='15' form='κέρδη' lemma='κέρδος' postag='n-p---na-' relation='OBJ' ref='' sg='acc dpd aff' head='16'/>
+    <word id='16' form='περιποιεῖν' lemma='περιποιέω' postag='v--pna---' relation='OBJ' ref='' sg='dpd vrb as_acc not_ind' head='13'/>
+    <word id='17' form='.' lemma='' postag='' relation='' ref='' sg='' head=''/>
+  </sentence>
+  <sentence id='14' document_id='' subdoc='2' span=''>
+    <word id='1' form='Πρὸς' lemma='πρός' postag='r--------' relation='AuxP' ref='' sg='' head='9'/>
+    <word id='2' form='ἄνδρα' lemma='ἀνήρ' postag='n-s---ma-' relation='OBJ' ref='' sg='acc dpd adp rcp_add' head='1'/>
+    <word id='3' form='αἰσχροκερδῆ' lemma='αἰσχροκερδής' postag='a-s---ma-' relation='ATR_CO' ref='' sg='prp' head='2'/>
+    <word id='4' form='μηδὲ' lemma='μηδέ' postag='d--------' relation='AuxZ' ref='' sg='ngt' head='6'/>
+    <word id='5' form='θεῶν' lemma='θεός' postag='n-p---mg-' relation='OBJ' ref='' sg='acc dpd aff' head='6'/>
+    <word id='6' form='πεφροντικότα' lemma='φροντίζω' postag='v-srpama-' relation='ATR_CO' ref='' sg='adj atr' head='2'/>
+    <word id='7' form='ὁ' lemma='ὁ' postag='l-s---mn-' relation='ATR' ref='' sg='' head='11'/>
+    <word id='8' form='λόγος' lemma='λόγος' postag='n-s---mn-' relation='SBJ' ref='' sg='nmn dpd' head='11'/>
+    <word id='9' form='εὔκαιρος' lemma='εὔκαιρος' postag='a-s---mn-' relation='PNOM' ref='' sg='prp' head='11'/>
+    <word id='10' form='.' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+    <word id='11' insertion_id='0009e' artificial='elliptic' relation='PRED' lemma='εἰμί' postag='v3spia---' form='ἐστί' sg='ind stt' head='0'/>
+  </sentence>
+  <sentence id='15' document_id='' subdoc='3' span=''>
+    <word id='1' form='Ἀετὸς' lemma='ἀετός' postag='n-s---mn-' relation='SBJ' ref='' sg='nmn ind ctc' head='2'/>
+    <word id='2' form='καὶ' lemma='καί' postag='c--------' relation='COORD' ref='' sg='' head='0'/>
+    <word id='3' form='ἀλώπηξ' lemma='ἀλώπηξ' postag='n-s---fn-' relation='SBJ' ref='' sg='nmn ind ctc' head='2'/>
+    <word id='4' form='.' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+  </sentence>
+  <sentence id='16' document_id='' subdoc='3' span=''>
+    <word id='1' form='Ἀετὸς' lemma='ἀετός' postag='n-s---mn-' relation='SBJ' ref='' sg='nmn dpd' head='2'/>
+    <word id='2' form='καὶ' lemma='καί' postag='c--------' relation='COORD' ref='' sg='' head='11'/>
+    <word id='3' form='ἀλώπηξ' lemma='ἀλώπηξ' postag='n-s---fn-' relation='SBJ' ref='' sg='nmn dpd' head='2'/>
+    <word id='4' form='φιλίαν' lemma='φιλία' postag='n-s---fa-' relation='OBJ' ref='' sg='acc dpd aff' head='7'/>
+    <word id='5' form='πρὸς' lemma='πρός' postag='r--------' relation='AuxP' ref='' sg='' head='7'/>
+    <word id='6' form='ἀλλήλους' lemma='ἀλλήλων' postag='p-p---ma-' relation='OBJ' ref='' sg='sbs acc dpd adp frd_ass' head='5'/>
+    <word id='7' form='ποιησάμενοι' lemma='ποιέω' postag='v-papmmn-' relation='ADV' ref='' sg='adj crc tmp squ_lct' head='11'/>
+    <word id='8' form='πλησίον' lemma='πλησίον' postag='r--------' relation='AuxP' ref='' sg='plc lct cnc' head='10'/>
+    <word id='9' form='ἑαυτῶν' lemma='ἑαυτοῦ' postag='p-p---mg-' relation='OBJ' ref='' sg='sbs gnt dpd tmp_plc plc lct cnc' head='8'/>
+    <word id='10' form='οἰκεῖν' lemma='οἰκέω' postag='v--pna---' relation='OBJ' ref='' sg='dpd vrb as_acc not_ind' head='11'/>
+    <word id='11' form='διέγνωσαν' lemma='διαγιγνώσκω' postag='v3paia---' relation='PRED_CO' ref='' sg='ind stt' head='12'/>
+    <word id='12' form=',' lemma='' postag='' relation='COORD' ref='' sg='' head='0'/>
+    <word id='13' form='βεβαίωσιν' lemma='βεβαίωσις' postag='n-s---fa-' relation='OCOMP_CO' ref='' sg='acc dpd aff' head='17'/>
+    <word id='14' form='φιλίας' lemma='φιλία' postag='n-s---fg-' relation='OBJ' ref='' sg='gnt dpd prp sbj_obj obj' head='13'/>
+    <word id='15' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' ref='' sg='' head='16'/>
+    <word id='16' form='συνήθειαν' lemma='συνήθεια' postag='n-s---fa-' relation='OBJ' ref='' sg='acc dpd aff' head='17'/>
+    <word id='17' form='ποιούμενοι' lemma='ποιέω' postag='v-pppemn-' relation='ADV' ref='' sg='adj crc mnn' head='11'/>
+    <word id='18' form='.' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+  </sentence>
+  <sentence id='17' document_id='' subdoc='3' span=''>
+    <word id='1' form='Καὶ' lemma='καί' postag='c--------' relation='AuxZ' ref='' sg='' head='10'/>
+    <word id='2' form='δὴ' lemma='δή' postag='d--------' relation='AuxY' ref='' sg='prt' head='10'/>
+    <word id='3' form='ὁ' lemma='ὁ' postag='p-s---mn-' relation='SBJ' ref='' sg='sbs nmn dpd' head='10'/>
+    <word id='4' form='μὲν' lemma='μέν' postag='d--------' relation='AuxY' ref='' sg='prt' head='10'/>
+    <word id='5' form='ἀναβὰς' lemma='ἀναβαίνω' postag='v-sapamn-' relation='ADV' ref='' sg='adj crc tmp squ_lct' head='10'/>
+    <word id='6' form='ἐπί' lemma='ἐπί' postag='r--------' relation='AuxP' ref='' sg='' head='5'/>
+    <word id='7' form='τι' lemma='τις' postag='p-s---na-' relation='ATR' ref='' sg='adj' head='9'/>
+    <word id='8' form='περίμηκες' lemma='περιμήκης' postag='a-s---na-' relation='ATR' ref='' sg='prp' head='9'/>
+    <word id='9' form='δένδρον' lemma='δένδρον' postag='n-s---na-' relation='OBJ' ref='' sg='acc dpd ext spc lct cnc' head='6'/>
+    <word id='10' form='ἐνεοττοποιήσατο' lemma='νεοσσοποιέω' postag='v3saim---' relation='PRED' ref='' sg='ind stt' head='0'/>
+    <word id='11' form='·' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+  </sentence>
+  <sentence id='18' document_id='' subdoc='3' span=''>
+    <word id='1' form='ἡ' lemma='ἡ' postag='p-s---fn-' relation='SBJ' ref='' sg='sbs nmn dpd' head='8'/>
+    <word id='2' form='δὲ' lemma='δέ' postag='d--------' relation='COORD' ref='' sg='prt' head='0'/>
+    <word id='3' form='εἰσελθοῦσα' lemma='εἰσέρχομαι' postag='v-sapafn-' relation='ADV' ref='' sg='adj crc tmp squ_lct' head='8'/>
+    <word id='4' form='εἰς' lemma='εἰς' postag='r--------' relation='AuxP' ref='' sg='' head='3'/>
+    <word id='5' form='τὸν' lemma='ὁ' postag='l-s---ma-' relation='ATR' ref='' sg='' head='7'/>
+    <word id='6' form='ὑποκείμενον' lemma='ὑπόκειμαι' postag='v-srpema-' relation='ATR' ref='' sg='adj atr' head='7'/>
+    <word id='7' form='θάμνον' lemma='θάμνος' postag='n-s---ma-' relation='OBJ' ref='' sg='acc dpd ext spc lct cnc' head='4'/>
+    <word id='8' form='ἔτεκεν' lemma='τίκτω' postag='v3saia---' relation='PRED_CO' ref='' sg='ind stt' head='2'/>
+    <word id='9' form='.' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+  </sentence>
+  <sentence id='19' document_id='' subdoc='3' span=''>
+    <word id='1' form='Ἐξελθούσης' lemma='ἐξέρχομαι' postag='v-sapafg-' relation='ADV' ref='' sg='adj crc tmp squ_lct' head='27'/>
+    <word id='2' form='δὲ' lemma='δέ' postag='d--------' relation='COORD' ref='' sg='prt' head='0'/>
+    <word id='3' form='αὐτῆς' lemma='αὐτός' postag='p-s---fg-' relation='SBJ' ref='' sg='sbs nmn dpd' head='1'/>
+    <word id='4' form='ποτε' lemma='ποτέ' postag='d--------' relation='ADV' ref='' sg='tmp sml_lct' head='1'/>
+    <word id='5' form='ἐπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' ref='' sg='' head='1'/>
+    <word id='6' form='νομήν' lemma='νομή' postag='n-s---fa-' relation='OBJ' ref='' sg='acc dpd ext spc lct cnc' head='5'/>
+    <word id='7' form=',' lemma='' postag='' relation='AuxX' ref='' sg='' head='6'/>
+    <word id='8' form='ὁ' lemma='ὁ' postag='l-s---mn-' relation='ATR' ref='' sg='' head='9'/>
+    <word id='9' form='ἀετός' lemma='ἀετός' postag='n-s---mn-' relation='SBJ' ref='' sg='nmn dpd' head='27'/>
+    <word id='10' form=',' lemma='' postag='' relation='AuxX' ref='' sg='' head='9'/>
+    <word id='11' form='ἀπορῶν' lemma='ἀπορέω' postag='v-sppamn-' relation='ADV' ref='' sg='adj crc cau' head='27'/>
+    <word id='12' form='τροφῆς' lemma='τροφή' postag='n-s---fg-' relation='OBJ' ref='' sg='acc dpd aff' head='11'/>
+    <word id='13' form=',' lemma='' postag='' relation='AuxX' ref='' sg='' head='12'/>
+    <word id='14' form='καταπτὰς' lemma='καταπέτομαι' postag='v-sapamn-' relation='ADV_CO' ref='' sg='adj crc tmp squ_lct' head='18'/>
+    <word id='15' form='εἰς' lemma='εἰς' postag='r--------' relation='AuxP' ref='' sg='' head='14'/>
+    <word id='16' form='τὸν' lemma='ὁ' postag='l-s---ma-' relation='ATR' ref='' sg='' head='17'/>
+    <word id='17' form='θάμνον' lemma='θάμνος' postag='n-s---ma-' relation='OBJ' ref='' sg='acc dpd ext spc lct cnc' head='15'/>
+    <word id='18' form='καὶ' lemma='καί' postag='c--------' relation='COORD' ref='' sg='' head='27'/>
+    <word id='19' form='τὰ' lemma='ὁ' postag='l-p---na-' relation='ATR' ref='' sg='' head='20'/>
+    <word id='20' form='γενήματα' lemma='γένημα' postag='n-p---na-' relation='OBJ' ref='' sg='acc dpd aff' head='21'/>
+    <word id='21' form='ἀναρπάσας' lemma='ἀναρπάζω' postag='v-sapamn-' relation='ADV_CO' ref='' sg='adj crc tmp squ_lct' head='18'/>
+    <word id='22' form=',' lemma='' postag='' relation='AuxX' ref='' sg='' head='21'/>
+    <word id='23' form='μετὰ' lemma='μετά' postag='r--------' relation='AuxP' ref='' sg='' head='27'/>
+    <word id='24' form='τῶν' lemma='ὁ' postag='l-p---mg-' relation='ATR' ref='' sg='' head='26'/>
+    <word id='25' form='ἑαυτοῦ' lemma='ἑαυτοῦ' postag='p-s---mg-' relation='ATR' ref='' sg='adj' head='26'/>
+    <word id='26' form='νεοττῶν' lemma='νεοσσός' postag='n-p---mg-' relation='ADV' ref='' sg='gnt dpd adp acm' head='23'/>
+    <word id='27' form='κατεθοινήσατο' lemma='κατά-θοινάω' postag='v3saim---' relation='PRED_CO' ref='' sg='ind stt' head='2'/>
+    <word id='28' form='.' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+  </sentence>
+  <sentence id='20' document_id='' subdoc='3' span=''>
+    <word id='1' form='Ἡ' lemma='ὁ' postag='l-s---fn-' relation='ATR' ref='' sg='' head='3'/>
+    <word id='2' form='δὲ' lemma='δέ' postag='d--------' relation='COORD' ref='' sg='prt' head='0'/>
+    <word id='3' form='ἀλώπηξ' lemma='ἀλώπηξ' postag='n-s---fn-' relation='SBJ' ref='' sg='nmn dpd' head='18'/>
+    <word id='4' form='ἐπανελθοῦσα' lemma='ἐπανέρχομαι' postag='v-sapafn-' relation='ADV' ref='' sg='adj crc tmp squ_lct' head='18'/>
+    <word id='5' form=',' lemma='' postag='' relation='AuxX' ref='' sg='' head='4'/>
+    <word id='6' form='ὡς' lemma='ὡς' postag='c--------' relation='AuxC' ref='' sg='' head='18'/>
+    <word id='7' form='ἔγνω' lemma='γιγνώσκω' postag='v3saia---' relation='ADV' ref='' sg='dpn adv_cls tmp squ_lct ind' head='6'/>
+    <word id='8' form='τὸ' lemma='ὁ' postag='l-s---na-' relation='ATR' ref='' sg='' head='9'/>
+    <word id='9' form='πραχθέν' lemma='πράσσω' postag='v-sappna-' relation='OBJ' ref='' sg='sbs acc dpd aff' head='7'/>
+    <word id='10' form=',' lemma='' postag='' relation='AuxX' ref='' sg='' head='9'/>
+    <word id='11' form='οὐ' lemma='οὐ' postag='d--------' relation='AuxZ' ref='' sg='' head='18'/>
+    <word id='12' form='τοσοῦτον' lemma='τοσοῦτον' postag='d-------p' relation='ADV_CO' ref='' sg='mnn' head='18'/>
+    <word id='13' form='ἐπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' ref='' sg='' head='18'/>
+    <word id='14' form='τῷ' lemma='ὁ' postag='l-s---md-' relation='ATR' ref='' sg='' head='17'/>
+    <word id='15' form='τῶν' lemma='ὁ' postag='l-p---mg-' relation='ATR' ref='' sg='' head='16'/>
+    <word id='16' form='νεοττῶν' lemma='νεοσσός' postag='n-p---mg-' relation='ATR' ref='' sg='gnt dpd prp sbj_obj sbj' head='17'/>
+    <word id='17' form='θανάτῳ' lemma='θάνατος' postag='n-s---md-' relation='OBJ_CO' ref='' sg='dtv dpd ins prp cau' head='13'/>
+    <word id='18' form='ἐλυπήθη' lemma='λυπέω' postag='v3saip---' relation='PRED_CO' ref='' sg='ind stt' head='2'/>
+    <word id='19' form='ὅσον' lemma='ὅσον' postag='d-------p' relation='ADV_CO' ref='' sg='mnn' head='18'/>
+    <word id='20' form='ἐπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' ref='' sg='' head='18'/>
+    <word id='21' form='τῇ' lemma='ὁ' postag='l-s---fd-' relation='ATR' ref='' sg='' head='22'/>
+    <word id='22' form='ἀμύνῃ' lemma='ἄμυνα' postag='n-s---fd-' relation='OBJ_CO' ref='' sg='dtv dpd ins prp cau' head='20'/>
+    <word id='23' form='·' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+  </sentence>
+  <sentence id='21' document_id='' subdoc='3' span=''>
+    <word id='1' form='χερσαία' lemma='χερσαῖος' postag='a-s---fn-' relation='PNOM' ref='' sg='prp' head='3'/>
+    <word id='2' form='γὰρ' lemma='γάρ' postag='d--------' relation='AuxZ' ref='' sg='prt' head='6'/>
+    <word id='3' form='οὖσα' lemma='εἰμί' postag='v-sppafn-' relation='ADV' ref='' sg='adj crc cau' head='6'/>
+    <word id='4' form='πετεινὸν' lemma='πετεινός' postag='a-s---ma-' relation='OBJ' ref='' sg='sbs acc dpd aff' head='5'/>
+    <word id='5' form='διώκειν' lemma='διώκω' postag='v--pna---' relation='OBJ' ref='' sg='dpd vrb as_acc not_ind' head='6'/>
+    <word id='6' form='ἠδυνάτει' lemma='ἀδυνατέω' postag='v3siia---' relation='PRED' ref='' sg='ind stt' head='0'/>
+    <word id='7' form='.' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+  </sentence>
+  <sentence id='22' document_id='' subdoc='3' span=''>
+    <word id='1' form='Διόπερ' lemma='διόπερ' postag='c--------' relation='AuxY' ref='' sg='' head='15'/>
+    <word id='2' form='πόρρωθεν' lemma='πρόσωθεν' postag='d--------' relation='ADV' ref='' sg='plc lct cnc' head='3'/>
+    <word id='3' form='στᾶσα' lemma='ἵστημι' postag='v-sapafn-' relation='ADV' ref='' sg='adj crc tmp squ_lct' head='15'/>
+    <word id='4' form=',' lemma='' postag='' relation='AuxX' ref='' sg='' head='3'/>
+    <word id='5' form='ὃ' lemma='ὅς' postag='p-s---nn-' relation='SBJ' ref='' sg='sbs nmn dpd' head='11'/>
+    <word id='6' form='μόνον' lemma='μόνος' postag='a-s---nn-' relation='ATV' ref='' sg='prp' head='11'/>
+    <word id='7' form='τοῖς' lemma='ὁ' postag='l-p---md-' relation='ATR' ref='' sg='' head='8'/>
+    <word id='8' form='ἀδυνάτοις' lemma='ἀδύνατος' postag='a-p---md-' relation='OBJ_CO' ref='' sg='sbs dtv dpd prp ind' head='9'/>
+    <word id='9' form='καὶ' lemma='καί' postag='c--------' relation='COORD' ref='' sg='' head='11'/>
+    <word id='10' form='ἀσθενέσιν' lemma='ἀσθενής' postag='a-p---md-' relation='OBJ_CO' ref='' sg='sbs dtv dpd prp ind' head='9'/>
+    <word id='11' form='ὑπολείπεται' lemma='ὑπολείπω' postag='v3spie---' relation='APOS' ref='' sg='dpn adj_cls sbs not_ind nmn dpd' head='15'/>
+    <word id='12' form=',' lemma='' postag='' relation='AuxX' ref='' sg='' head='11'/>
+    <word id='13' form='τῷ' lemma='ὁ' postag='l-s---md-' relation='ATR' ref='' sg='' head='14'/>
+    <word id='14' form='ἐχθρῷ' lemma='ἐχθρός' postag='a-s---md-' relation='OBJ' ref='' sg='sbs dtv dpd prp ind' head='15'/>
+    <word id='15' form='κατηρᾶτο' lemma='καταράομαι' postag='v3siie---' relation='PRED' ref='' sg='ind stt' head='0'/>
+    <word id='16' form='.' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+  </sentence>
+  <sentence id='23' document_id='' subdoc='3' span=''>
+    <word id='1' form='Συνέβη' lemma='συμβαίνω' postag='v3saia---' relation='PRED_CO' ref='' sg='ind stt' head='2'/>
+    <word id='2' form='δʼ' lemma='δέ' postag='d-------p' relation='COORD' ref='' sg='prt' head='0'/>
+    <word id='3' form='αὐτῷ' lemma='αὐτός' postag='p-s---md-' relation='OBJ' ref='' sg='sbs dtv dpd prp ind' head='1'/>
+    <word id='4' form='τῆς' lemma='ὁ' postag='l-s---fg-' relation='ATR' ref='' sg='' head='8'/>
+    <word id='5' form='εἰς' lemma='εἰς' postag='r--------' relation='AuxP' ref='' sg='' head='8'/>
+    <word id='6' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' ref='' sg='' head='7'/>
+    <word id='7' form='φιλίαν' lemma='φιλία' postag='n-s---fa-' relation='ATR' ref='' sg='acc dpd rsp' head='5'/>
+    <word id='8' form='ἀσεβείας' lemma='ἀσέβεια' postag='n-s---fg-' relation='ADV' ref='' sg='gnt dpd prp crm_acn' head='13'/>
+    <word id='9' form='οὐκ' lemma='οὐ' postag='d--------' relation='AuxZ' ref='' sg='ngt' head='13'/>
+    <word id='10' form='εἰς' lemma='εἰς' postag='r--------' relation='AuxP' ref='' sg='' head='13'/>
+    <word id='11' form='μακρὰν' lemma='μακρός' postag='a-s---fa-' relation='ATR' ref='' sg='prp' head='12'/>
+    <word id='12' form='δίκην' lemma='δίκη' postag='n-s---fa-' relation='OBJ' ref='' sg='acc dpd ext spc lct fgr' head='10'/>
+    <word id='13' form='ὑποσχεῖν' lemma='ὑπέχω' postag='v--ana---' relation='SBJ' ref='' sg='dpd vrb as_nmn not_ind' head='1'/>
+    <word id='14' form='·' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+  </sentence>
+  <sentence id='24' document_id='' subdoc='3' span=''>
+    <word id='1' form='θυόντων' lemma='θύω1' postag='v-pppamg-' relation='ADV' ref='' sg='adj crc tmp sml_lct' head='14'/>
+    <word id='2' form='γάρ' lemma='γάρ' postag='d--------' relation='AuxZ' ref='' sg='prt' head='14'/>
+    <word id='3' form='τινων' lemma='τις' postag='p-p----g-' relation='SBJ' ref='' sg='sbs nmn dpd' head='1'/>
+    <word id='4' form='αἶγα' lemma='αἴξ' postag='n-s---ma-' relation='OBJ' ref='' sg='acc dpd aff' head='1'/>
+    <word id='5' form='ἐπʼ' lemma='ἐπί' postag='r--------' relation='AuxP' ref='' sg='' head='1'/>
+    <word id='6' form='ἀγροῦ' lemma='ἀγρός' postag='n-s---mg-' relation='ADV' ref='' sg='gnt dpd tmp_plc plc lct cnc' head='5'/>
+    <word id='7' form=',' lemma='' postag='' relation='AuxX' ref='' sg='' head='6'/>
+    <word id='8' form='καταπτὰς' lemma='καταπέτομαι' postag='v-sapamn-' relation='ADV' ref='' sg='adj crc mnn' head='14'/>
+    <word id='9' form='ἀπὸ' lemma='ἀπό' postag='r--------' relation='AuxP' ref='' sg='' head='14'/>
+    <word id='10' form='τοῦ' lemma='ὁ' postag='l-s---mg-' relation='ATR' ref='' sg='' head='11'/>
+    <word id='11' form='βωμοῦ' lemma='βωμός' postag='n-s---mg-' relation='ADV' ref='' sg='gnt dpd tmp_plc plc lct cnc' head='9'/>
+    <word id='12' form='σπλάγχνον' lemma='σπλάγχνον' postag='n-s---na-' relation='OBJ' ref='' sg='acc dpd aff' head='14'/>
+    <word id='13' form='ἔμπυρον' lemma='ἔμπυρος' postag='a-s---nv-' relation='ATR' ref='' sg='prp' head='12'/>
+    <word id='14' form='ἀνήνεγκεν' lemma='ἀναφέρω' postag='v3saia---' relation='PRED' ref='' sg='ind stt' head='0'/>
+    <word id='15' form='·' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+  </sentence>
+  <sentence id='25' document_id='' subdoc='3' span=''>
+    <word id='1' form='οὗ' lemma='ὅς' postag='p-s---mg-' relation='SBJ' ref='' sg='' head='2'/>
+    <word id='2' form='κομισθέντος' lemma='κομίζω' postag='v-sappmg-' relation='ADV' ref='' sg='adj crc tmp squ_lct' head='17'/>
+    <word id='3' form='ἐπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' ref='' sg='' head='2'/>
+    <word id='4' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' ref='' sg='' head='5'/>
+    <word id='5' form='καλιάν' lemma='καλιά' postag='n-s---fa-' relation='OBJ' ref='' sg='acc dpd ext spc lct cnc' head='3'/>
+    <word id='6' form=',' lemma='' postag='' relation='AuxX' ref='' sg='' head='5'/>
+    <word id='7' form='σφοδρὸς' lemma='σφοδρός' postag='a-s---mn-' relation='ATR' ref='' sg='prp' head='9'/>
+    <word id='8' form='ἐμπεσὼν' lemma='ἐμπίπτω' postag='v-sapamnp' relation='ATR' ref='' sg='adj atr' head='9'/>
+    <word id='9' form='ἄνεμος' lemma='ἄνεμος' postag='n-s---mn-' relation='SBJ' ref='' sg='nmn dpd' head='17'/>
+    <word id='10' form='ἐκ' lemma='ἐκ' postag='r--------' relation='AuxP' ref='' sg='' head='17'/>
+    <word id='11' form='λεπτοῦ' lemma='λεπτός' postag='a-s---ng-' relation='ATR_CO' ref='' sg='prp' head='12'/>
+    <word id='12' form='καὶ' lemma='καί' postag='c--------' relation='COORD' ref='' sg='' head='14'/>
+    <word id='13' form='παλαιοῦ' lemma='παλαιός' postag='a-s---ng-' relation='ATR_CO' ref='' sg='prp' head='12'/>
+    <word id='14' form='κάρφους' lemma='κάρφος' postag='n-s---ng-' relation='OBJ' ref='' sg='gnt dpd abl src' head='10'/>
+    <word id='15' form='λαμπρὰν' lemma='λαμπρός' postag='a-s---fa-' relation='ATR' ref='' sg='prp' head='16'/>
+    <word id='16' form='φλόγα' lemma='φλόξ' postag='n-s---fa-' relation='OBJ' ref='' sg='acc dpd aff' head='17'/>
+    <word id='17' form='ἀνῆψε' lemma='ἀνάπτω' postag='v3saia---' relation='PRED' ref='' sg='ind stt' head='0'/>
+    <word id='18' form='.' lemma='' postag='' relation='AuxK' ref='' sg='' head='0'/>
+  </sentence>
+</treebank>
