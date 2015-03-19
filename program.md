@@ -1,4 +1,4 @@
-## Program (preliminary/tentative schedule)
+## Program (preliminary schedule)
 Supervisor: Giuseppe G. A. Celano
 
 2 March - 6 March
