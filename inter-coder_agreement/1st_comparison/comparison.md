@@ -4,7 +4,7 @@
   </head>
   <body>
     <h1>Inter-coder Agreement</h1>
-    <p>This is the inter-annotator agreement calculated on 11 March 2015 (from sentence 1 to 10 of Aesop's fables). The document contains the sentences the annotators disagree on with their values and links to Arethusa, the online tool used to peform annotation, so that values of disagreement can be discussed in a user-friendly interface. After comparison, annotators were invited to change their annotations where necessary: for this reason a certain value for a word is now the corrected one in the linked sentence, which always shows the most recent annotation for each value.</p>
+    <p>This is the inter-annotator agreement calculated on 11 March 2015 (from sentence 1 to 10 of Aesop's fables). The document contains the sentences the annotators disagree on with their values and links to Arethusa, the online tool used to perform annotation, so that values of disagreement can be discussed in a user-friendly interface. After comparison, annotators were invited to change their annotations where necessary: for this reason a certain value for a word is now the corrected one in the linked sentence, which always shows the most recent annotation for each value.</p>
     <div>
       <div>
         <h2>1. Morphology</h2>
