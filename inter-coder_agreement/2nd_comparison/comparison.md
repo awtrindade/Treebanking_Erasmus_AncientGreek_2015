@@ -6,7 +6,7 @@
     <h1>Inter-coder Agreement</h1>
         <p>This is the inter-annotator agreement calculated on 17 March 2015 (from sentence 11 to 25 of Aesop's fables). 
         The document contains the sentences the annotators disagree on with their values and links to Arethusa, 
-        the online tool used to peform annotation, so that values of disagreement can be discussed in a user-friendly interface. 
+        the online tool used to perform annotation, so that values of disagreement can be discussed in a user-friendly interface. 
         After comparison, annotators were invited to change their annotations where necessary: 
         for this reason a certain value for a word is now the corrected one in the linked sentence, 
         which always shows the most recent annotation for each value.</p>
