@@ -176,7 +176,7 @@
               <td>78</td>
               <td>20</td>
               <td>0.795918367346938776</td>
-              <td></td>
+              <td>(not applicable)</td>
             </tr>
           </tbody>
         </table>
@@ -437,7 +437,7 @@
               <td>65</td>
               <td>33</td>
               <td>0.66326530612244898</td>
-              <td></td>
+              <td>(not applicable)</td>
             </tr>
           </tbody>
         </table>
