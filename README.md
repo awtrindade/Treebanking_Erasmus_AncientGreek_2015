@@ -1,7 +1,7 @@
 ## README
 
 This respository documents the treebanking activity for the ERASMUS students 
-(March-June 2015, Leipzig University, Humboldt Chair in Digital Humanities) under the Supervisor of Dr. Giuseppe G. A. Celano. More precisely it contains:
+(March-June 2015, Leipzig University, Humboldt Chair in Digital Humanities) under the Supervisor of Dr. Giuseppe G. A. Celano. More precisely, it contains:
 
 * Program/schedule for the treebanking activity (the guildelines are contained in the <a href="https://github.com/PerseusDL/treebank_data/tree/master/AGDT2/guidelines">PerseusDL repository</a>)
 * XML files before tokenization and sentence split (the <comment> elements in the files specify the edition of the text)
