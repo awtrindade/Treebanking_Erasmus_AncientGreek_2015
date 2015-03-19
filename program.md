@@ -3,12 +3,12 @@ Supervisor: Giuseppe G. A. Celano
 
 2 March - 6 March
 * Introduction to Perseids/Arethusa and Treebanking (lessons, 3 hours)
-* Intensive study of guidelines and Funeral Oration (already treebanked) (self-study 35 hours)
+* Intensive study of the <a href="https://github.com/PerseusDL/treebank_data/tree/master/AGDT2/guidelines" target="_blank">guidelines</a> and <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=1&doc=9258" target="_blank">Funeral Oration</a> (already treebanked) (self-study 35 hours)
 * Discussion (2 hours)
 
 9 March - 13 March
 * Critical points in annotation (lessons, 4 hours)
-* Intensive study of guidelines and Funeral Oration (already treebanked) (self-study 17 hours)
+* Intensive study of the <a href="https://github.com/PerseusDL/treebank_data/tree/master/AGDT2/guidelines" target="_blank">guidelines</a> and <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=1&doc=9258" target="_blank">Funeral Oration</a> (already treebanked) (self-study 17 hours)
 * Treebanking of Aesop (16 hours)
 * Calculating Inter-coder agreement and discussion (3 hours)
 
