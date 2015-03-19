@@ -10,7 +10,7 @@ Supervisor: Giuseppe G. A. Celano
 * Critical points in annotation (lessons, 4 hours)
 * Intensive study of the <a href="https://github.com/PerseusDL/treebank_data/tree/master/AGDT2/guidelines" target="_blank">guidelines</a> and <a href="http://www.perseids.org/tools/arethusa/app/#/perseids?chunk=1&doc=9258" target="_blank">Funeral Oration</a> (already treebanked) (self-study 17 hours)
 * Treebanking of Aesop (16 hours)
-* Calculating Inter-coder agreement and discussion (3 hours)
+* Calculating inter-coder agreement and discussion (3 hours)
 
 16 March - 20 March
 * Revision of already treebanked sentences (Aesop) (4 hours)
