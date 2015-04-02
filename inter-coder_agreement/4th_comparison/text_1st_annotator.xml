@@ -17,10 +17,6 @@ The @subdoc contains reference to the number of fable according to Chambry's afo
       <uri>http://github.com/latin-language-toolkit/arethusa</uri>
     </annotator>
     <annotator>
-      <short>Yoana Ivanova</short>
-      <name>Yoana Ivanova</name>
-      <address>yoanagf13@gmail.com</address>
-      <uri>http://data.perseus.org/sosol/users/Yoana%20Ivanova</uri>
     </annotator>
     <sentence id="36" document_id="" subdoc="4" span="">
       <word relhead="ATR3" id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" ref="" sg="" head="3"/>
@@ -486,10 +482,6 @@ I have automatically checked punctuation: as in the original file, apostrophes a
       <uri>http://github.com/latin-language-toolkit/arethusa</uri>
     </annotator>
     <annotator>
-      <short>Yoana Ivanova</short>
-      <name>Yoana Ivanova</name>
-      <address>yoanagf13@gmail.com</address>
-      <uri>http://data.perseus.org/sosol/users/Yoana%20Ivanova</uri>
     </annotator>
     <sentence id="1" document_id="urn:cts:greekLit:tlg0548.tlg001" subdoc="1.1.1" span="">
       <word relhead="SBJ5" id="1" form="Οὐρανὸς" lemma="Οὐρανός" postag="n-s---mn-" relation="SBJ" ref="" gloss="Sky" sg="nmn dpd" head="5"/>
