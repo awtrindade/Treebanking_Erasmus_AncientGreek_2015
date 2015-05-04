@@ -9,3 +9,5 @@ This respository documents the treebanking activity for the ERASMUS students
 * Inter-coder agreement folder, which documents in detail the files compared
 
 The guildelines are documented and can be consulted in the <a href="https://github.com/PerseusDL/treebank_data/tree/master/AGDT2/guidelines" target="_blank">PerseusDL repository</a>
+
+These data are under license CC BY-NC-SA 
