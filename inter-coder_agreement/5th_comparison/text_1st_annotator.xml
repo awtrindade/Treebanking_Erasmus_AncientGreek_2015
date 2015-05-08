@@ -8,10 +8,6 @@
     <uri>http://github.com/latin-language-toolkit/arethusa</uri>
   </annotator>
   <annotator>
-    <short>Yoana Ivanova</short>
-    <name>Yoana Ivanova</name>
-    <address>yoanagf13@gmail.com</address>
-    <uri>http://data.perseus.org/sosol/users/Yoana%20Ivanova</uri>
   </annotator>
   <sentence id="1" document_id="9" subdoc="" span="">
     <word relhead="ExD_CO2" id="1" form="Ἀηδὼν" lemma="ἀηδών" postag="n-s---fn-" relation="ExD_CO" ref="9" gloss="nightingale" sg="nmn ind ctc" head="2"/>
