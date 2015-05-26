@@ -1,0 +1,2006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xml:lang="grc" format="smyth3" version="1.5">
+  <date/>
+  <sentence id="1" document_id="31" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="βάτος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="2" document_id="31" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φραγμὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀναβαίνουσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐπειδὴ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὀλισθαίνειν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔμελλε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="βάτου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπελάβετο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="3" document_id="31" subdoc="" span="">
+    <word id="" form="Ξυνθεῖσα" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="πέλμα" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="δεινῶς" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="διατεθεῖσα" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ᾐτιᾶτο" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="αὐτὴν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ὅτι" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="καταφυγοῦσα" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἐπ'" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="αὐτὴν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἐπὶ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="βοηθὸν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="χείρονι" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="αὐτῇ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἐχρήσατο" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" form="[0]" sg="" head=""/>
+  </sentence>
+  <sentence id="4" document_id="31" subdoc="" span="">
+    <word id="" form="Καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἡ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="βάτος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑποτυχοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶπεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="5" document_id="31" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Ἀλλ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐσφάλης" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φρενῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὕτη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐμοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπιλαβέσθαι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="βουληθεῖσα" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἥτις" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="αὐτὴ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="πάντων" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἐπιλαμβάνεσθαι" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="εἴωθα" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="6" document_id="31" subdoc="" span="">
+    <word id="" form="Οὕτως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνθρώπων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μάταιοί" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰσιν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὅσοι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τούτοις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="βοηθοῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προσφεύγουσιν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἷς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀδικεῖν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μᾶλλόν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐστιν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔμφυτον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" form="[0]" head=""/>
+  </sentence>
+  <sentence id="7" document_id="32" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="βότρυς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="8" document_id="32" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λιμώττουσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐθεάσατο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπό" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τινος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀναδενδράδος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="βότρυας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κρεμαμένους" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἠβουλήθη" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="αὐτῶν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="περιγενέσθαι" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="οὐκ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἠδύνατο" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="9" document_id="32" subdoc="" span="">
+    <word id="" form="Ἀπαλλαττομένη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="πρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἑαυτὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶπεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="10" document_id="32" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Ὄμφακές" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰσιν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="11" document_id="32" subdoc="" span="">
+    <word id="" form="Οὕτω" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνθρώπων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔνιοι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πραγμάτων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐφικέσθαι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μὴ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δυνάμενοι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δι'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀσθένειαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καιροὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αἰτιῶνται" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="12" document_id="33" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δράκων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="13" document_id="33" subdoc="" span="">
+    <word id="" form="[" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Συκέα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="παρ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὁδὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἦν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="]" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="14" document_id="33" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="[" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="]" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="θεασαμένη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δράκοντα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κοιμώμενον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐζήλωσεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="μῆκος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="15" document_id="33" subdoc="" span="">
+    <word id="" form="βουλομένη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="αὐτῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐξισωθῆναι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="παραναπεσοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπειρᾶτο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἑαυτὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐκτείνειν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="μέχρις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὗ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑπερβιαζομένη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔλαθε" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ῥαγεῖσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="16" document_id="33" subdoc="" span="">
+    <word id="" form="Τοῦτο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πάσχουσιν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἱ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κρείττοσιν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνθαμιλλώμενοι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="17" document_id="33" subdoc="" span="">
+    <word id="" form="θᾶττον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γὰρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτοὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διαρρήγνυνται" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἢ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐκείνων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐφικέσθαι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δύνανται" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="18" document_id="34" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δρυτόμος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="19" document_id="34" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κυνηγοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φεύγουσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐθεάσατό" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τινα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δρυτόμον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τοῦτον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἱκέτευσε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κατακρύψαι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτήν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="20" document_id="34" subdoc="" span="">
+    <word id="" form="Ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="αὐτῇ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="παρῄνεσεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἑαυτοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καλύβην" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰσελθοῦσαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κρυβῆναι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="21" document_id="34" subdoc="" span="">
+    <word id="" form="Μετ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὐ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πολὺ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="παραγενομένων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κυνηγῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τοῦ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="δρυτόμου" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="πυνθανομένων" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="εἰ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τεθέαται" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἀλώπεκα" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τῇδε" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="παριοῦσαν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐκεῖνος" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τῇ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="μὲν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="φωνῇ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἠρνεῖτο" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἑωρακέναι" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τῇ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="χειρὶ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="νεύων" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἐσήμαινεν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ὅπου" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="κατεκρύπτετο" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="22" document_id="34" subdoc="" span="">
+    <word id="" form="Τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="οὐχ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἷς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔνευε" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="προσσχόντων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="οἷς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἔλεγε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πιστευσάντων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἡ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἰδοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπαλλαγέντας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐξελθοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπροσφωνητὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπορεύετο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="23" document_id="34" subdoc="" span="">
+    <word id="" form="Μεμφομένου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="αὐτὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δρυτόμου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="εἴγε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διασωθεῖσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑπ'" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="αὐτοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀλλ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὐδὲ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φωνῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐμαρτύρησεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἔφη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="24" document_id="34" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Ἀλλ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔγωγε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ηὐχαρίστησα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἄν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σοι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="εἰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λόγοις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὅμοια" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τὰ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἔργα" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="χειρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τρόπους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶχες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="25" document_id="34" subdoc="" span="">
+    <word id="" form="Τούτῳ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λόγῳ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="χρήσαιτο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἄν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐκείνους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνθρώπους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="χρηστὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μὲν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="σαφῶς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπαγγελλομένους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="δι'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔργων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="φαῦλα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δρῶντας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="26" document_id="35" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κροκόδειλος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="27" document_id="35" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κροκόδειλος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="περὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εὐγενείας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἤριζον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="28" document_id="35" subdoc="" span="">
+    <word id="" form="Πολλὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κροκοδείλου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διεξιόντος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="περὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προγόνων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λαμπρότητος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τελευταῖον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λέγοντος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γεγυμνασιαρχηκότων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐστὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πατέρων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἡ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔφη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="29" document_id="35" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Ἀλλὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κἂν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σὺ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μὴ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἴπῃς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀπὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δέρματος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φαίνῃ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὅτι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πολλῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐτῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γεγυμνασμένος" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="30" document_id="35" subdoc="" span="">
+    <word id="" form="Οὕτως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ψευδολόγων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνθρώπων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔλεγχός" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐστι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πράγματα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="31" document_id="36" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κύων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="32" document_id="36" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀγέλην" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προβάτων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰσελθοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="θηλαζόντων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀρνίων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἓν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀναλαβομένη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="προσεποιεῖτο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καταφιλεῖν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="33" document_id="36" subdoc="" span="">
+    <word id="" form="Ἐρωτηθεῖσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὑπὸ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="κυνὸς" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τί" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τοῦτο" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ποιεῖ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τιθηνοῦμαι" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="αὐτό" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἔφη" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="προσπαίζω" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="34" document_id="36" subdoc="" span="">
+    <word id="" form="Καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κύων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔφη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="35" document_id="36" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="νῦν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐὰν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μὴ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀφῇς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀρνίον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀφ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἑαυτῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κυνῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σοι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προσοίσω" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="36" document_id="36" subdoc="" span="">
+    <word id="" form="Πρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἄνδρα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ῥᾳδιουργὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μῶρον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κλέπτην" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λόγος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εὔκαιρος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" lemma="" postag="" gloss="" form="ἐστί" sg="" head=""/>
+  </sentence>
+  <sentence id="37" document_id="37" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πάρδαλις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="38" document_id="37" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πάρδαλις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="περὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κάλλους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἤριζον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="39" document_id="37" subdoc="" span="">
+    <word id="" form="Τῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="παρδάλεως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="παρ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἕκαστα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σώματος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ποικιλίαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προβαλλομένης" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἡ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑποτυχοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔφη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="40" document_id="37" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πόσον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐγὼ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καλλίων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑπάρχω" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἥτις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὐ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σῶμα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ψύχην" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πεποίκιλμαι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" lemma="" postag="" gloss="" form="πεποίκιλμαι" sg="" head=""/>
+  </sentence>
+  <sentence id="41" document_id="37" subdoc="" span="">
+    <word id="" form="Ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λόγος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δηλοῖ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὅτι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σωματικοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κάλλους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀμείνων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐστὶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διανοίας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κόσμος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="42" document_id="38" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πίθηκος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="βασιλεὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αἱρεθείς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="43" document_id="38" subdoc="" span="">
+    <word id="" form="Ἐν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συνόδῳ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἀλόγων" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ζῴων" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="πίθηκος" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ὀρχησάμενος" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="εὐδοκιμήσας" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="βασιλεὺς" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ὑπ'" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="αὐτῶν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἐχειροτονήθη" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="44" document_id="38" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="αὐτῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φθονήσασα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐθεάσατο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τινι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πάγῃ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κρέας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κείμενον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀγαγοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐνταῦθα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔλεγεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εὑροῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="θησαυρὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτὴ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μὲν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="οὐκ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐχρήσατο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="γέρας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="αὐτῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="βασιλείας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τετήρηκε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="παρῄνει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λαμβάνειν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="45" document_id="38" subdoc="" span="">
+    <word id="" form="Τοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀτημελήτως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπελθόντος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑπὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πάγης" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συλληφθέντος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="αἰτιωμένου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τε" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀλώπεκα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐνεδρεύσασαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐκείνη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔφη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" form="[0]" head=""/>
+  </sentence>
+  <sentence id="46" document_id="38" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Ὦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πίθηκε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="σὺ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τοιαύτην" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μωρίαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔχων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀλόγων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ζῴων" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="βασιλεύεις" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form=";" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="47" document_id="38" subdoc="" span="">
+    <word id="" form="Οὕτως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἱ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πράγμασιν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπερισκέπτως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπιχειροῦντες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δυστυχεῖν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γέλωτα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὀφλισκάνουσιν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="48" document_id="39" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πίθηκος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="περὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εὐγενείας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐρίζοντες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="49" document_id="39" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πίθηκος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ταὐτῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὁδοιποροῦντες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="περὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εὐγενείας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἤριζον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" lemma="" postag="" gloss="" form="τόπῳ" sg="" head=""/>
+  </sentence>
+  <sentence id="50" document_id="39" subdoc="" span="">
+    <word id="" form="Πολλὰ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἑκατέρου" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="διεξιόντος" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐπειδὴ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἐγένοντο" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="κατά" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τινα" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τόπον" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐνταῦθα" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἀποβλέψας" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἀνεστέναξεν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ὁ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="πίθηκος" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="51" document_id="39" subdoc="" span="">
+    <word id="" form="Τῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀλώπεκος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐρομένης" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αἰτίαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πίθηκος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπιδείξας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτῇ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μνήματα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="εἶπεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="52" document_id="39" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Ἀλλ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὐ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μέλλω" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κλάειν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὁρῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="στήλας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πατρικῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπελευθέρων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δούλων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form=";" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="53" document_id="39" subdoc="" span="">
+    <word id="" form="Καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐκείνη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔφη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="54" document_id="39" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Ἀλλὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ψεύδου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὅσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="βούλει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="55" document_id="39" subdoc="" span="">
+    <word id="" form="οὐδεὶς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γὰρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τούτων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀναστὰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐλέγξει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="56" document_id="39" subdoc="" span="">
+    <word id="" form="Οὕτω" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνθρώπων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἱ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ψευδολόγοι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τότε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μάλιστα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καταλαζονεύονται" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὅταν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐλέγχοντας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μὴ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔχωσιν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="57" document_id="40" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τράγος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="58" document_id="40" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πεσοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φρέαρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑπ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνάγκης" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔμεινε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="59" document_id="40" subdoc="" span="">
+    <word id="" form="Τράγος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="δίψει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συνεχόμενος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐγένετο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κατὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φρέαρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="60" document_id="40" subdoc="" span="">
+    <word id="" form="θεασάμενος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="αὐτὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπυνθάνετο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καλόν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐστι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὕδωρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="61" document_id="40" subdoc="" span="">
+    <word id="" form="ἡ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συντυχίαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀσμενισαμένη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔπαινον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὕδατος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κατέτεινε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="λέγουσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="χρηστὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἴη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὕδωρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καταβαίνειν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="παρῄνει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="62" document_id="40" subdoc="" span="">
+    <word id="" form="Ἐπεὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀμελετήτως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κατῆλθε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπιθυμίαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἅμα" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δίψαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σβέσαι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μετὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀλώπεκος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐσκόπει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἄνοδον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="63" document_id="40" subdoc="" span="">
+    <word id="" form="Καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἡ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑποτυχοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶπε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="64" document_id="40" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Χρήσιμον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἶδα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐὰν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μόνον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="θελήσῃς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀμφοτέρων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σωτηρίαν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="65" document_id="40" subdoc="" span="">
+    <word id="" form="Θέλησον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὖν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐμπροσθίους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πόδας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐρεῖσαι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῷ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τοίχῳ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὀρθῶσαι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κέρατα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀναδραμοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐγὼ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σὲ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνασπάσω" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="66" document_id="40" subdoc="" span="">
+    <word id="" form="Τοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="πρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="παραίνεσιν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἑτοίμως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπακούσαντος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἡ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀναλομένη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σκελῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὤμων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="κεράτων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="στόμα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φρέατος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εὑρέθη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνελθοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπηλλάττετο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="67" document_id="40" subdoc="" span="">
+    <word id="" form="Τοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τράγου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μεμφομένου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὁμολογίας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀθετήσασαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐπιστραφεῖσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶπε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τράγῳ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" form="[0]" head=""/>
+  </sentence>
+  <sentence id="68" document_id="40" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Ὦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὗτος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="εἰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοσαύτας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φρένας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶχες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὅσας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πώγωνί" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τρίχας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="οὐ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρότερον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἂν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κατεβεβήκεις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρὶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἄνοδον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐσκέψω" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" lemma="" postag="" gloss="" form="ἔχεις" sg="" head=""/>
+  </sentence>
+  <sentence id="69" document_id="40" subdoc="" span="">
+    <word id="" form="Οὕτως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνθρώπων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φρονίμους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δεῖ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρότερον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τέλη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πραγμάτων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σκοπεῖν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="εἶθ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὕτως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτοῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐγχειρεῖν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="70" document_id="41" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="κολουρός" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="71" document_id="41" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑπό" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τινος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πάγης" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὐρὰν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀποκοπεῖσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐπειδὴ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δι'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αἰσχύνην" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀβίωτον" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἡγεῖτο" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τὸν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="βίον" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἔχειν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἔγνω" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="δεῖν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τὰς" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἄλλας" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἀλώπεκας" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="εἰς" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="αὐτὸ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="προαγαγεῖν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἵνα" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τῷ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="κοινῷ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="πάθει" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἴδιον" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἐλάττωμα" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="συγκρύψῃ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="72" document_id="41" subdoc="" span="">
+    <word id="" form="Καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὴ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἁπάσας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀθροίσασα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="παρῄνει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐταῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὐρὰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀποκόπτειν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="λέγουσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὐκ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπρεπὲς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μόνον" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τοῦτο" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀλλὰ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="περισσόν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τι" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="αὐταῖς" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="βάρος" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="προσήρτηται" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" lemma="" postag="" gloss="" form="ἐστί" sg="" head=""/>
+  </sentence>
+  <sentence id="73" document_id="41" subdoc="" span="">
+    <word id="" form="Τούτων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δέ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑποτυχοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔφη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="74" document_id="41" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Ὦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὕτη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀλλ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μή" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σοι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῦτο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συνέφερεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="οὐκ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἂν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἡμῖν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῦτο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συνεβούλευσας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="75" document_id="41" subdoc="" span="">
+    <word id="" form="Οὗτος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὁ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="λόγος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἁρμόττει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐκείνους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἳ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συμβουλίας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ποιοῦνται" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πέλας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὐ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δι'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εὔνοιαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀλλὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἑαυτοῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συμφέρον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="76" document_id="42" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μηδέποτε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="θεασαμένη" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="λέοντα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="77" document_id="42" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μηδέποτε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="θεασαμένη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λέοντα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐπειδὴ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κατά" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τινα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συντυχίαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑπήντησε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μὲν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="πρῶτον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἰδοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὕτως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διεταράχθη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μικροῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀποθανεῖν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="78" document_id="42" subdoc="" span="">
+    <word id="" form="Ἐκ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δευτέρου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="αὐτῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="περιτυχοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐφοβήθη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μέν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀλλ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὐχ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὕτως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρότερον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" form="[0]" sg="" lemma="" postag="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" form="[1]" sg="" lemma="" postag="" head=""/>
+  </sentence>
+  <sentence id="79" document_id="42" subdoc="" span="">
+    <word id="" form="Ἐκ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τρίτου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="θεασαμένη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὕτω" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κατεθάρρησεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προσελθοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διελέχθη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="80" document_id="42" subdoc="" span="">
+    <word id="" form="Ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λόγος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δηλοῖ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὅτι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἡ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συνήθεια" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φοβερὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πραγμάτων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καταπραΰνει" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="81" document_id="43" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μορμολύκειον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" lemma="" postag="" gloss="" form="λέγει" sg="" head=""/>
+  </sentence>
+  <sentence id="82" document_id="43" subdoc="" span="">
+    <word id="" form="Ἀλώπηξ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰσελθοῦσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πλάστου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐργαστήριον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἕκαστον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐνόντων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διερευνῶσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="περιέτυχε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τραγῳδοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προσωπείῳ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τοῦτο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπάρασα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶπεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="83" document_id="43" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Οἵα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κεφαλὴ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐγκέφαλον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὐκ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔχει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="84" document_id="43" subdoc="" span="">
+    <word id="" form="Πρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἄνδρα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μεγαλοπρεπῆ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μὲν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="σώματι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="κατὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ψυχὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀλόγιστον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λόγος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εὔκαιρος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" lemma="" postag="" gloss="" sg="" form="ἐστί" head=""/>
+  </sentence>
+  <sentence id="85" document_id="44" subdoc="" span="">
+    <word id="" form="Ἄνδρες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δύο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="περὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="θεῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐρίζοντες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="86" document_id="44" subdoc="" span="">
+    <word id="" form="Ἄνδρες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δύο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐμάχοντο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τίνες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="θεῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μείζους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Θησεὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἢ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="Ἡρακλῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" lemma="" postag="" gloss="" form="εἶναι" sg="" head=""/>
+  </sentence>
+  <sentence id="87" document_id="44" subdoc="" span="">
+    <word id="" form="Οἱ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="θεοὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὀργισθέντες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτοῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἑκάτερος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἑτέρου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="χώραν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἠμύνατο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="88" document_id="44" subdoc="" span="">
+    <word id="" form="Ὅτι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑπεξουσίων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἡ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔρις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δεσπότας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πείθει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὀργίλους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶναι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κατὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑπηκόων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" lemma="" postag="" gloss="" form="δηλοῖ" sg="" head=""/>
+  </sentence>
+  <sentence id="89" document_id="45" subdoc="" span="">
+    <word id="" form="Ἀνδροφόνος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="90" document_id="45" subdoc="" span="">
+    <word id="" form="Ἄνθρωπόν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀποκτείνας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑπὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐκείνου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συγγενῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐδιώκετο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="91" document_id="45" subdoc="" span="">
+    <word id="" form="γενόμενος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="κατὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="Νεῖλον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ποταμόν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="λύκου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπαντήσαντος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="φοβηθεὶς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνέβη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δένδρου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ποταμῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="παρακειμένου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐκεῖ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐκρύπτετο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="92" document_id="45" subdoc="" span="">
+    <word id="" form="Θεασάμενος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐνταῦθα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δράκοντα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κατ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διαιρόμενον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἑαυτὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ποταμὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καθῆκεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="93" document_id="45" subdoc="" span="">
+    <word id="" form="ἐν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ποταμῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κροκόδειλος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κατεθοινήσατο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="94" document_id="45" subdoc="" span="">
+    <word id="" form="Ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λόγος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δηλοῖ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὅτι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐναγέσι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνθρώπων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὔτε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="οὔτε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀέρος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="οὔτε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὕδατος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="στοιχεῖον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀσφαλές" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐστι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="95" document_id="46" subdoc="" span="">
+    <word id="" form="Ἀνὴρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀδύνατα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπαγγελλόμενος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="96" document_id="46" subdoc="" span="">
+    <word id="" form="Ἀνὴρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πένης" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="νοσῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κακῶς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διακείμενος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐπειδὴ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἰατρῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπηλπίσθη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τοῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="θεοῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ηὔχετο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἑκατόμβην" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ποιήσειν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπαγγελλόμενος" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀναθήματα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καθιερώσειν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐὰν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐξαναστῇ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="97" document_id="46" subdoc="" span="">
+    <word id="" form="Τῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="γυναικὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="(" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐτύγχανε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γὰρ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="αὐτῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="παρεστῶσα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form=")" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="πυνθανομένης" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πόθεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀποδώσεις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form=";" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἔφη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="98" document_id="46" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Νομίζεις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γάρ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="με" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐξαναστήσεσθαι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἵνα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ταῦτά" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="με" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="οἱ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="θεοὶ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἀπαιτήσωσιν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form=";" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="99" document_id="46" subdoc="" span="">
+    <word id="" form="Ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λόγος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δηλοῖ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὅτι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ταῦτα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ῥᾴδιον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἄνθρωποι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κατεπαγγέλλονται" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἃ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τελέσειν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔργῳ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὐ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προσδοκῶσιν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="100" document_id="47" subdoc="" span="">
+    <word id="" form="Ἀνὴρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δειλὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κόρακες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="101" document_id="47" subdoc="" span="">
+    <word id="" form="Ἀνὴρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δειλὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πόλεμον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐξῄει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="102" document_id="47" subdoc="" span="">
+    <word id="" form="Φθεγξαμένων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="κοράκων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὅπλα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="θεὶς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἡσύχαζεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="εἶτ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀναλαβὼν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὖθις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐξῄει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="φθεγγομένων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πάλιν" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὑπέστη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τέλος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶπεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="103" document_id="47" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Ὑμεῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κεκράξεσθε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μὲν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δύνασθε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μέγιστον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="104" document_id="47" subdoc="" span="">
+    <word id="" form="ἐμοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="οὐ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γεύσεσθε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="105" document_id="47" subdoc="" span="">
+    <word id="" form="Ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μῦθος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="περὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σφόδρα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δειλῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" lemma="" postag="" gloss="" form="ἐστί" sg="" head=""/>
+  </sentence>
+  <sentence id="106" document_id="48" subdoc="" span="">
+    <word id="" form="Ἀνὴρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δηχθεὶς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑπὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μύρμηκος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="Ἑρμῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="107" document_id="48" subdoc="" span="">
+    <word id="" form="Ναῦν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ποτε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μετὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνδρῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="βυθισθεῖσαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἰδών" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀδίκως" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἔλεγε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="θεοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κρίνειν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="108" document_id="48" subdoc="" span="">
+    <word id="" form="δι'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἕνα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γὰρ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀσεβῆ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συναπώλοντο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀναίτιοι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="109" document_id="48" subdoc="" span="">
+    <word id="" form="Ταῦτα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λέγοντος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="μυρμήκων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πολλῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὄντων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τόπῳ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ᾧ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔτυχεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἱστάμενος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="συνέβη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑφ'" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἑνὸς" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="δηχθῆναι" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τοῦτον" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="110" document_id="48" subdoc="" span="">
+    <word id="" form="Ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὑφ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἑνὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δηχθεὶς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συνεπάτησε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πάντας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="111" document_id="48" subdoc="" span="">
+    <word id="" form="Ἑρμῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐπιστὰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῇ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ῥάβδῳ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="παίων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶπεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="112" document_id="48" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Εἶτα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὐκ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνέχῃ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σὺ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="θεοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δικαστὰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶναι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἷος" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="εἶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σὺ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μυρμήκων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form=";" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="113" document_id="48" subdoc="" span="">
+    <word id="" form="Ὅτι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μηδεὶς" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="θεοῦ" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="βλασφημείτω" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="συμφορᾶς" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἐπελθούσης" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="μᾶλλον" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="σκοπείτω" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="τὰς" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="οἰκείας" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ἁμαρτίας" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" lemma="" postag="" gloss="" form="δηλοῖ" sg="" head=""/>
+  </sentence>
+  <sentence id="114" document_id="49" subdoc="" span="">
+    <word id="" form="Ἀνὴρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γυνὴ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀργαλέα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="115" document_id="49" subdoc="" span="">
+    <word id="" form="Ἔχων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γυναῖκα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πάντας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἰκείους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λίαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἦθος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀργαλέαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἠβουλήθη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γνῶναι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοὺς" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="πατρῴους" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἰκέτας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὁμοίως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="διάκειται" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="116" document_id="49" subdoc="" span="">
+    <word id="" form="ὅθεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μετὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προφάσεως" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εὐλόγου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πατέρα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔπεμψε" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="117" document_id="49" subdoc="" span="">
+    <word id="" form="Μετὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὀλίγας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἡμέρας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀνελθούσης" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπυνθάνετο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πῶς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἱ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἰκεῖοι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προσεδέξαντο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="118" document_id="49" subdoc="" span="">
+    <word id="" form="Τῆς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="εἰπούσης" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Οἱ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="βουκόλοι" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἱ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ποιμένες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="με" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὑπεβλέποντο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἔφη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτήν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="119" document_id="49" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Ἀλλ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γύναι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="εἰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τούτοις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπήχθου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἱ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὄρθρου" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μὲν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τὰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ποίμνας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐξελαύνουσιν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὀψὲ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="εἰσίασι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="τί" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="χρὴ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προσδοκᾶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="περὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τούτων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οἷς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πᾶσαν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἡμέραν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συνδιέτριβες" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form=";" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="120" document_id="49" subdoc="" span="">
+    <word id="" form="Οὕτω" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πολλάκις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐκ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μικρῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μεγάλα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐκ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῶν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προδήλων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἄδηλα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γνωρίζονται" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="121" document_id="50" subdoc="" span="">
+    <word id="" form="Ἀνὴρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κακοπράγμων" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="122" document_id="50" subdoc="" span="">
+    <word id="" form="Ἀνὴρ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κακοπράγμων" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="συνορισάμενος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πρός" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τινα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ψευδὲς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπιδείξειν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="Δελφοῖς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μαντεῖον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ὡς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐνέστη" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἡ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προθεσμία" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="λαβὼν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="στρουθίον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="χεῖρα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῦτο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τῷ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἱματίῳ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σκεπάσας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἧκεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἱερὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="στὰς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀντικρὺς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπηρώτα" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="πότερόν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔμπνουν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔχει" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μετὰ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="χεῖρας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἢ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἄψυχον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="βουλόμενος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐὰν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="μὲν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἄψυχον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἴπῃ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ζωὸν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="στρουθίον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐπιδείξαι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐὰν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δὲ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἔμπνουν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἀποπνίξας" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="προενεγκεῖν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" insertion_id="" artificial="" relation="" lemma="" postag="" gloss="" form="εἴπῃ" sg="" head=""/>
+  </sentence>
+  <sentence id="123" document_id="50" subdoc="" span="">
+    <word id="" form="Καὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="θεὸς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="συνεὶς" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="αὐτοῦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὴν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="κακότεχνον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γνώμην" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="εἶπεν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="124" document_id="50" subdoc="" span="">
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="Ἀλλ'" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὦ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="οὗτος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="," lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="πέπαυσο" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="·" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="125" document_id="50" subdoc="" span="">
+    <word id="" form="ἐν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="σοὶ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="γάρ" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="ἐστι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τοῦτο" lemma="" postag="" relation="" ref="" sg="" gloss="" head=""/>
+    <word id="" form="ὃ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔχεις" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἢ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="νεκρὸν" lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="εἶναι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἢ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἔμψυχον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+    <word id="" form="&quot;" lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+  <sentence id="126" document_id="50" subdoc="" span="">
+    <word id="" form="Ὁ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="λόγος" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="δηλοῖ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ὅτι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="τὸ" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="θεῖον" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἀπαρεγχείρητόν" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="ἐστι" lemma="" postag="" relation="" ref="" gloss="" sg="" head=""/>
+    <word id="" form="." lemma="" postag="" relation="" ref="" sg="" head=""/>
+  </sentence>
+</treebank>
